@@ -1,4 +1,4 @@
 # dinner-call-bot
 
 ## 概要
-LINE社のMessaging APIを使ったご飯できあがり通知botです。
+LINE社のMessaging APIを使って、ご飯ができあがった時に通知してくれるbotです。
